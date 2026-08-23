@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "question": "What is the earnings disregard for a claim dated February 15, 2026?",
+    "expected_type": "ANSWER",
+    "expected_citations": [
+      "\u00a76.4.1"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the earnings disregard for a claim dated April 10, 2026?",
+    "expected_type": "ANSWER",
+    "expected_citations": [
+      "Amendment-1.1"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is the earnings disregard for a claim dated 1 March 2026?",
+    "expected_type": "ANSWER",
+    "expected_citations": [
+      "Amendment-1.1"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How many days do I have to report a change in circumstances for a claim dated April 2026?",
+    "expected_type": "ANSWER",
+    "expected_citations": [
+      "Amendment-2.1",
+      "Amendment-2.2"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Can a 16-year-old be eligible if they have a dependent child, for a claim in May 2026?",
+    "expected_type": "ANSWER",
+    "expected_citations": [
+      "\u00a72.3.1"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is the monthly income threshold for a household of 1?",
+    "expected_type": "ANSWER",
+    "expected_citations": ["§6.6.1"]
+  },
+  {
+    "id": 7,
+    "question": "Does the program provide additional funds for purchasing pet food?",
+    "expected_type": "REFUSAL",
+    "expected_citations": []
+  },
+  {
+    "id": 8,
+    "question": "How many days do I have to report a change in my income for a claim in January 2026?",
+    "expected_type": "CONFLICT",
+    "expected_citations": [
+      "\u00a74.3.2",
+      "\u00a79.1.4"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What is the maximum countable resources a household can have to be eligible for a claim in April 2026?",
+    "expected_type": "ANSWER",
+    "expected_citations": [
+      "\u00a72.4.1"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "If I am receiving a training allowance, is it counted as income for a claim in March 2026?",
+    "expected_type": "ANSWER",
+    "expected_citations": [
+      "\u00a75.3.1",
+      "\u00a76.4.1"
+    ]
+  }
+]
